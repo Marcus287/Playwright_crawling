@@ -1,0 +1,8 @@
+{
+    "URL": "https://fienza.com.au",
+    "SEARCH_PAGE": "/?s=TONO&post_type=product&type_aws=true",
+    "MAX_PAGES":9,
+    "OUTPUT_DIR": "data",
+    "HEADLESS": true,
+    "TIMEOUT":30000
+}
